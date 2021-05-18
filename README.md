@@ -28,7 +28,7 @@
 ## Логическая схема
 
 ### ER-модель БД
-![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/ER-model.png)
+![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/ER-model2.png)
 
 #### Описание сущностей
 
