@@ -50,6 +50,6 @@
 Связь UC_CONFERENCE типа «многие к одному» связывает сущности USER_CONFERENCE и CONFERENCE. Участие сущности USER_CONFERENCE в данной связи является полным, CONFERENCE — частичным.
 
 ### Реляционная модель БД
-![PlantUML model](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/relational-model.url)
+![PlantUML model](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/relational-model.png)
 
 ## Физическая схема
