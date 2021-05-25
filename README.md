@@ -105,7 +105,7 @@ RPS, учитывая среднее количество выполнения �
 
 Для определения нужного сервера, на котором реализуется поток аудио искомой пользователем конференции, следует развернуть Redis.
 
-![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/project-scheme.png)
+![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/project-scheme2.png)
 
 ## Ссылки на источники информации
 - https://discord.com/brand-new/company
