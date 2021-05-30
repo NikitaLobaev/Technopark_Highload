@@ -127,7 +127,7 @@ RPS, учитывая среднее количество выполнения �
 
 ### Схема проекта
 
-![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/project-scheme3.png)
+![image](https://raw.githubusercontent.com/NikitaLobaev/Technopark_Highload/main/project-scheme4.png)
 
 #### Дополнительные пояснения по схеме
 
